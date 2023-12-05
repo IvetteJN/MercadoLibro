@@ -10,7 +10,6 @@ const frases = [
     "Tengo esperanza o podría no vivir - La isla del doctor Moreau, H.G. Wells",
     "Llamo a la gente “rica” cuando son capaces de satisfacer las necesidades de su imaginación - El retrato de una dama, Henry James",
     "Luchar hasta el último aliento - Enrique VI, William Shakespeare",
-  // Pueden agregar las frases que quieran o crean necesarias
 ];
 
 // Variable para llevar el control de la frase actual
