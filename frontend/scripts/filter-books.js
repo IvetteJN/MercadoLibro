@@ -74,7 +74,7 @@ clearFiltersButton.addEventListener("click", function () {
   showBooks(allBooks);
 });
 
-//Lista de filtros select para versión movil
+//Lista de filtros select
 document.addEventListener("DOMContentLoaded", function () {
   const filterSelect = document.getElementById("filter-select");
 
