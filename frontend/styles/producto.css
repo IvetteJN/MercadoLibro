@@ -40,6 +40,11 @@
   z-index: 999; /* Asegura que el botón esté en la capa superior */
 }
 
+#filter-select {
+ border-radius: 5px;
+ border: none;
+}
+
 @media (max-width: 1023px) {
   .ir-arriba {
     display: block;
@@ -74,14 +79,6 @@
   #carouselExampleCaptions {
     display: none;
   }
-
-  #filter-container {
-    text-align: center; 
-    display: block; 
-    border-radius: 10px;
-    max-width: fit-content;
-  }
-
 }
 
 /*carrito*/

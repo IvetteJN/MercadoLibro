@@ -48,18 +48,18 @@ main div p{
 }
 
 /* Mobile*/
-@media (max-width: 424px) {
+@media (max-width: 425px) {
   main div {
     align-items: center;
-    padding: 5px; /* Ajusta el espaciado interior */
+    padding: 5px;
   }
 
   main h5 {
-    font-size: 12px; /* Reduce el tamaño del título */
+    font-size: 20px; 
   }
 
   main div p {
-    font-size: 4px; /* Reduce el tamaño del texto */
+    font-size: 4px;
   }
 
   .animado {
@@ -67,4 +67,3 @@ main div p{
     padding: 2px;
   }
 }
-/* Estilos para pantallas con un ancho máximo de 479px (pantallas de tipo celular) */
